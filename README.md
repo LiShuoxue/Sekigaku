@@ -1,3 +1,2 @@
 # Sekigaku
-Hello everyone，I'm Shuoxue Li from Gansu Province.Nice to meet you all!
-I'll appreciate it if you give me a hand while I have trouble learning the languages of programming.
+Hello，tutor,I'm Li Shuoxue,a freshman from College of Chemistry and Molecular Engineering(CCME).It's my first time to attend the class‘Introduction to Computing’,so I'll appreciate it if you give me a hand while I'm have difficulty in comprehending the computer languages and programming.And I greatly hope that it'll be a fantastic opportunity for me to ajust to the requirement of information society!
